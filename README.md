@@ -1,2 +1,2 @@
 # Business-Intelligence-BI-
-here I put only screenshots.
+Here I put only screenshots of the projects I made.
